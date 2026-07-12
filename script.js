@@ -1,5 +1,4 @@
 // AdsLaunch AI Engine
-sk-or-v1-71d...a49
 const generateBtn = document.getElementById("generateBtn");
 const copyBtn = document.getElementById("copyBtn");
 
